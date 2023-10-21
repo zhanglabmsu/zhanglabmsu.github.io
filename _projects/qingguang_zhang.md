@@ -15,7 +15,7 @@ category: Current Lab Members
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">
             <p style = "font-size:20px"><strong> Qingguang Zhang, Ph.D. </strong> </p>
-            <p> Incoming Assistant Professor</p>
+            <p> Assistant Professor</p>
             <p> Office: xxx Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824</p>
             <p> email: qingguang.zhang@gmail.com</p>
         </div>

@@ -13,10 +13,10 @@ nav_order: 5
     </div>
 </div>
 <div class="caption">
-    <p style = "font-size:40px"><strong> Opportunities / Openings </strong> </p>
+    <p style = "font-size:40px"><strong> Opportunities </strong> </p>
 </div>
 
-The Zhang Lab will be officially starting at Michigan State University in January, 2024. We are seeking talented/motivated individuals for the following positions:<br>
+We are seeking talented/motivated individuals for the following positions:<br>
 * <strong> Lab Technician </strong> <br>
 To apply, please send: 1) a detailed CV; 2) a cover letter describing your previous research experience (if applicable), and interest in our lab; and 3) contact information for three references.
 * <strong> Postdoctoral Fellows </strong> <br>
@@ -26,4 +26,4 @@ We are looking for highly curious and motivated graduate students to join the la
 * <strong>  Undergraduate Students </strong> <br>
 We always encourage interested undergraduate students to join the lab! To be considered, please send along your (unofficial) transcript and a short statement describing your interest in our work, previous research experience (if applicable), and your future goals.<br>
 
-We? Yeah, the "we" referenced here is just Qingguang and the mice, for now. Interested in the position? Need more information? Please send a message to qingguang.zhang@gmail.com.
+We? Yeah, the "we" referenced here is just Qingguang and the mice, for now. Interested in the position? Need more information? Please send a message to qzhang24@msu.edu.

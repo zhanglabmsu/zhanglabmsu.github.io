@@ -17,9 +17,9 @@ nav_order: 6
 
 **Qingguang Zhang, Ph.D.** <br>
 Assistant Professor, Department of Physiology <br>
-Email: qingguang.zhang@gmail.com <br>
-Office: 2193 Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824 <br>
-Phone: 517-884-5038 <br>
+Email: qzhang24@msu.edu <br>
+Office: 2198 Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824 <br>
+Phone: 517-884-5041 <br>
 <br>
 
 **Laboratory** <br>

@@ -16,13 +16,13 @@ category: Current Lab Members
          <div class="text">
             <p style = "font-size:20px"><strong> Qingguang Zhang, Ph.D. </strong> </p>
             <p> Assistant Professor</p>
-            <p> Office: xxx Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824</p>
-            <p> email: qingguang.zhang@gmail.com</p>
+            <p> Office: 2198 Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824</p>
+            <p> email: qzhang24@msu.edu</p>
         </div>
     </div>
 </div>
 
-Qingguang is an incoming assistant professor (January 1st, 2024) in the [Department of Physiology](https://physiology.natsci.msu.edu/) at the [Michigan State University](https://msu.edu/), working on problems at the intersection of Life Sciences and Engineering. His research interests are mainly in mechanisms underlying brain hemodynamics regulation.
+Qingguang is an assistant professor in the [Department of Physiology](https://physiology.natsci.msu.edu/) at the [Michigan State University](https://msu.edu/), working on problems at the intersection of Life Sciences and Engineering. His research interests are mainly in mechanisms underlying brain hemodynamics regulation.
 
 Qingguang's prior training history spans the fields of biomedical engineering, cardiovascular physiology and systems neuroscience, which establishes a diverse and complementary skillset. His research career began at [Shandong University](https://www.en.sdu.edu.cn/) where he received his B.E. and M.S. in Biomedical Engineering, respectively. His earlier training as a undergraduate and graduate student has been focused on developing analysis approaches using sophisticated signal prosessing methods for measuring and analyzing physiological dynamics in humans.
 

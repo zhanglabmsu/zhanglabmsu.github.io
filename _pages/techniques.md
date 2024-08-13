@@ -28,7 +28,7 @@ Want to know more about how to apply each technique to our experiments in awake,
     </div>
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">
-            <p style = "font-size:20px"><strong> Two-photon Laser Scaning Microscopy (2PLSM) </strong> </p>
+            <p style = "font-size:20px"><strong> Two-photon Laser Scanning Microscopy (2PLSM) </strong> </p>
             <p>2PLSM is a fluorescence imaging technique that allows the visualization of living tissue at depths unachievable with conventional one photon flurescence microscopy. It relies upon the principle of two-photon absorption. The key benefit of 2PLSM is its ability to restrict excitation to a tiny focal volume in thick samples, which reduces the out of focus excitation and phototoxicity. An additional benefit of 2PLSM occurs through the use of infrared wavelengths, which reduces the scattering and allows to image deeper in the tissue.</p>
         </div>
     </div>
@@ -77,7 +77,7 @@ Want to know more about how to apply each technique to our experiments in awake,
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">
             <p style = "font-size:20px"><strong> Miniature Scope </strong> </p>
-            <p>Traditional neurotechnologies limit brain mapping to either fine detail in very few neurons at a time (microscale), or in large regions without the detail of their individual neurons (macroscale). To truly understand how the brain functions, we need technologies that can map neural circuit activity at the mesoscale, i.e in thousands of individual neurons simultaneously during a cognitive or behavioral task.</p>
+            <p>Traditional neurotechnologies limit brain mapping to either fine detail in very few neurons at a time (microscale), or in large regions without the detail of their individual neurons (macroscale). To truly understand how the brain functions, we need technologies that can map neural circuit activity at the mesoscale, i.e., in thousands of individual neurons simultaneously during a cognitive or behavioral task.</p>
         </div>
     </div>
 </div>

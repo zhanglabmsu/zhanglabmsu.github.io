@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Olivia Morris, B.S.
-description: Rotation Graduate Student
+description: Graduate Student (BMS rotation)
 img: assets/img/team/team_default.jpg
 importance: 1
 category: Current Lab Members
@@ -15,7 +15,7 @@ category: Current Lab Members
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">
             <p style = "font-size:20px"><strong> Olivia Morris, B.S. </strong> </p>
-            <p> Rotation Graduate Student</p>
+            <p> Graduate Student (BMS rotation)</p>
             <p> Office: 2100 Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824</p>
             <p> email: morr1057@msu.edu</p>
         </div>

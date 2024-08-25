@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joslyn Claypool
-description: Undergraduate Researcher
+description: Undergraduate Research Assistant
 img: assets/img/team/joslyn_claypool.jpg
 importance: 1
 category: Current Lab Members
@@ -15,7 +15,7 @@ category: Current Lab Members
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">
             <p style = "font-size:20px"><strong> Joslyn Claypool </strong> </p>
-            <p> Undergraduate Researcher</p>
+            <p> Undergraduate Research Assistant</p>
             <p> Office: 2100 Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824</p>
             <p> email: claypo16@msu.edu</p>
         </div>

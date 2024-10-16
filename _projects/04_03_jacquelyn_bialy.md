@@ -10,7 +10,7 @@ category: Current Lab Members
 
 <div class="row">
     <div class="col-sm-2 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/team/joslyn_claypool.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/team/jacquelyn_bialy.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">

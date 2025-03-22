@@ -22,5 +22,5 @@ category: Current Lab Members
     </div>
 </div>
 
-Olivia Morris is a first-year graduate student in the Genetics and Genome Sciences Program. She is originally from Tupelo, Mississippi and graduated from the University of North Alabama in the Spring of 2024. She is looking forward to learning a lot and exploring the great state of Michigan. 
+Olivia Morris is a first-year graduate student in the Molecular Cellular and Integrative Physiology program. She is originally from Tupelo, Mississippi and graduated from the University of North Alabama in the Spring of 2024. She is looking forward to learning a lot and exploring the great state of Michigan. 
 

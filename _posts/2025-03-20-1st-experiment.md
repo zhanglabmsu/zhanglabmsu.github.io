@@ -6,7 +6,7 @@ description:
 tags:
 categories: 
 ---
-First thin-skull window and imaging session done by our trainee.
+First thin-skull window and imaging session done all by our trainees themselves.
 
 <div class="row mt-13">
     <div class="col-sm mt-3 mt-md-0">

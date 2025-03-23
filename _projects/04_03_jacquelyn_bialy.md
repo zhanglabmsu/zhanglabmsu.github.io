@@ -4,7 +4,7 @@ title: Jacquelyn Bialy
 description: Undergraduate Research Assistant
 img: assets/img/team/jacquelyn_bialy.jpg
 importance: 1
-category: Previous Lab Members
+category: Lab Alumni
 
 ---
 

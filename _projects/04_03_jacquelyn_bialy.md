@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jacquelyn Bialy
-description: Undergraduate Research Assistant
+description: Undergraduate Research Assistant (2024-2025)
 img: assets/img/team/jacquelyn_bialy.jpg
 importance: 1
 category: Lab Alumni
@@ -15,7 +15,7 @@ category: Lab Alumni
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">
             <p style = "font-size:20px"><strong> Jacquelyn Bialy </strong> </p>
-            <p> Undergraduate Research Assistant</p>
+            <p> Undergraduate Research Assistant (2024-2025)</p>
             <p> Office: 2100 Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824</p>
             <p> email: bialyjac@msu.edu</p>
         </div>

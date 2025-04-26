@@ -1,14 +1,17 @@
 ---
 layout: page
-title: 
+title: Lab Alumni
 description: 
-img: 
+img: assets/img/team/team_default.jpg
 importance: 1
 category: Lab Alumni
 
 ---
 Jacquelyn Bialy, Undergraduate Research Assistant (2024-2025), Current Position: 
-
+**Jacquely Bialy, B.S.** <br>
+Undergraduate Research Assistant (2024-2025)<br>
+Current Position:  <br>
+<br>
 
 
 

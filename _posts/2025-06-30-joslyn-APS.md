@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dual fellowships support Claypool's deep dive into neuroscience and brain inflammation
+title: Dual fellowships support Joslyn's deep dive into neurophysiology
 date: 2025-06-30 21:00:00
 description:
 tags:

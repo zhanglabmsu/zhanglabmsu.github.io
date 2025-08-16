@@ -32,11 +32,9 @@ In 2011, he continued his training in the [Department of Biomedical Engineering]
 
 Motivated to understand the mechanisms of cerebrovascular regulation, he shifted his research into **systems neuroscience** to expand his training in **cellular and molecular biology**. He joined [Dr. Patrick Drew](https://www.drew-lab.org/)'s lab in 2015 as a postdoctoral fellow to study the mechanisms of how the brain blood flow and brain tissue oxygenation is regulated, using awake, behaving mouse models.
 
-In 2020, he continued his research as an assistant research professor, with a focus on **Aging** using an integrated approach combining cellular structure brain mapping and in vivo functional imaging, advidsed by a mentorship team of [Dr.Yongsoo Kim](https://kimlab.io/) and [Dr. Patrick Drew](https://www.drew-lab.org/). 
+In 2020, he continued his research as an assistant research professor, with a focus on **Aging** using an integrated approach combining cellular structure brain mapping and in vivo functional imaging, advidsed by a mentorship team of [Dr.Yongsoo Kim](https://kimlab.io/) and [Dr. Patrick Drew](https://www.drew-lab.org/).
 
-His current research is supported by a **Career Development Award** from the [American Heart Association](https://www.heart.org/).
-
-You can learn more about Qingguang from his [CV](/assets/pdf/team_CV/qingguang_zhang.pdf).
+In 2024, he established his research lab in Department of Physiology at Michigan State University.
 
 
 

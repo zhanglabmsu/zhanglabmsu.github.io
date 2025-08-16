@@ -38,5 +38,7 @@ To achieve this, we combine advanced imaging techniques to study the brain at di
     <div class="col-sm mt-3 mt-md-0">
           {% include figure.html path="assets/img/research/grant_AHA.png" title="example image" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
 </div>
 

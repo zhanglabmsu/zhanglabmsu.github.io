@@ -22,3 +22,18 @@ The goal of our research is to improve the practice of brain research by applyin
 Our research aims to understand the mechanisms of how nervous and vascular system work in concert to ensure proper brain function. <br>
 To achieve this, we combine advanced imaging techniques to study the brain at different scales during natural behaviors, and cellular and molecular techniques to probe signaling patterns and mechanisms in subtypes of cells to determine their contributions to brain function, using mouse models. <br>
 
+
+### **Funding**
+
+<div class="caption">
+    <p style = "font-size:40px"><strong> Research Support </strong> </p>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/img/research/grant_MSU_CHM.png" title="example image" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+          {% include figure.html path="assets/img/research/grant_AHA.png" title="example image" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
+    </div>
+</div>
+

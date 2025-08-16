@@ -23,10 +23,13 @@ Our research aims to understand the mechanisms of how nervous and vascular syste
 To achieve this, we combine advanced imaging techniques to study the brain at different scales during natural behaviors, and cellular and molecular techniques to probe signaling patterns and mechanisms in subtypes of cells to determine their contributions to brain function, using mouse models. <br>
 
 
-### **Funding**
+<br>
+<br>
+<br>
+<br>
 
 <div class="caption">
-    <p style = "font-size:40px"><strong> Research Support </strong> </p>
+    <p style = "font-size:24px"><strong> Research Support </strong> </p>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

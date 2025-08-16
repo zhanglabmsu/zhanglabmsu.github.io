@@ -29,7 +29,7 @@ To achieve this, we combine advanced imaging techniques to study the brain at di
 <br>
 
 <div class="caption">
-    <p style = "font-size:24px"><strong> Research Support </strong> </p>
+    <p style = "font-size:32px"><strong> Research Support </strong> </p>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -13,7 +13,7 @@ nav_order: 5
     </div>
 </div>
 <div class="caption">
-    <p style = "font-size:40px"><strong> Opportunities </strong> </p>
+    <p style = "font-size:32px"><strong> Opportunities </strong> </p>
 </div>
 
 We are seeking talented/motivated individuals for the following positions:<br>

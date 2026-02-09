@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Amalia Kaerezi, B.S.
+title: Amalia Kaerezi, B.A.
 description: Graduate Student
 img: assets/img/team/amalia_kaerezi.jpg
 importance: 1

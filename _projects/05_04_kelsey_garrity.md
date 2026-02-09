@@ -14,7 +14,7 @@ category: Current Lab Members
     </div>
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">
-            <p style = "font-size:20px"><strong> Jaini Gandhi </strong> </p>
+            <p style = "font-size:20px"><strong> Kelsey Garrity</strong> </p>
             <p> Undergraduate Research Assistant</p>
             <p> Office: 2100 Biomedical and Physical Sciences Building, 567 Wilson Rd, East Lansing, MI 48824</p>
             <p> email: garrit19@msu.edu</p>

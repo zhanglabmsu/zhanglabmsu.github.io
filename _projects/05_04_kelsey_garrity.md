@@ -2,7 +2,7 @@
 layout: page
 title: Kelsey Garrity
 description: Undergraduate Research Assistant
-img: assets/img/team/team_default.jpg
+img: assets/img/team/kelsey_garrity.jpg
 importance: 1
 category: Current Lab Members
 
@@ -10,7 +10,7 @@ category: Current Lab Members
 
 <div class="row">
     <div class="col-sm-2 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/team/team_default.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/team/kelsey_garrity.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
          <div class="text">
@@ -22,8 +22,7 @@ category: Current Lab Members
     </div>
 </div>
 
-Kelsey Garrity is a freshman majoring in Biochemistry and Molecular Biology/Biotechnology. 
-
+Kelsey Garrity is a freshman studying Biochemistry & Molecular Biology/ Biotechnology. Outside of the lab, she enjoys traveling, hiking, and swimming. She looks forward to contributing to the lab and gaining hands-on research experience.
 
 
 

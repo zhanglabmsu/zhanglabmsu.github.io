@@ -22,10 +22,10 @@ The goal of our research is to improve the practice of brain research by applyin
 Our research aims to understand the mechanisms of how nervous and vascular system work in concert to ensure proper brain function. <br>
 To achieve this, we combine advanced imaging techniques to study the brain at different scales during natural behaviors, and cellular and molecular techniques to probe signaling patterns and mechanisms in subtypes of cells to determine their contributions to brain function, using mouse models. <br>
 
-**Influence of brain state on brain hemodynamics regulation** <br>
+**Topic 1: Influence of brain state on brain hemodynamics regulation** <br>
 We are investigating how brain state changes associated with animal behaviors affect brain hemodynamic signals.<br>
 
-**Drivers of fluid and metabolite transport in the aging brain** <br>
+**Topic 2: Drivers of fluid and metabolite transport in the aging brain** <br>
 Cerebrospinal fluid (CSF) transport is thought to play a critical role in clearing metabolic waste from the brain. Our research investigates how vasomotion drives CSF flow and how these transport mechanisms are altered during healthy aging.<br>
 
 <br>

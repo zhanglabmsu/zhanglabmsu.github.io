@@ -2,7 +2,7 @@
 layout: page
 title: Ishitha Teluguntla
 description: Undergraduate Research Assistant
-img: assets/img/team/team_default.jpg
+img: assets/img/team/ishitha_teluguntla.jpg
 importance: 1
 category: Current Lab Members
 

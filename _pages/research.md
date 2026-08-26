@@ -46,8 +46,13 @@ Cerebrospinal fluid (CSF) transport is thought to play a critical role in cleari
     <div class="col-sm mt-3 mt-md-0">
          {% include figure.html path="assets/img/research/grant_HFH_MSU.png" title="example image" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
+</div>
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
          {% include figure.html path="assets/img/research/grant_NIH.png" title="example image" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+         {% include figure.html path="assets/img/research/grant_MADRC.png" title="example image" class="img-fluid rounded z-depth-1 mx-auto d-block" %}
     </div>
 </div>
 

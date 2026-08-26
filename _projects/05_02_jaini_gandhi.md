@@ -22,7 +22,7 @@ category: Current Lab Members
     </div>
 </div>
 
-Jaini Gandhi is a junior majoring in Neuroscience, with minors in CMSE and Cognitive Science. She plans to pursue graduate studies in neuroscience, with the long-term goal of contributing to interdisciplinary research in neurotechnology and behavioral neuroscience. Outside of the lab, Jaini enjoys reading dystopian novels, travelling, and swimming.
+Jaini Gandhi is a senior majoring in Neuroscience, with minors in CMSE and Cognitive Science. She plans to pursue graduate studies in neuroscience, with the long-term goal of contributing to interdisciplinary research in neurotechnology and behavioral neuroscience. Outside of the lab, Jaini enjoys reading dystopian novels, travelling, and swimming.
 
 
 

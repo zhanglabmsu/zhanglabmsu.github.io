@@ -22,5 +22,5 @@ category: Current Lab Members
     </div>
 </div>
 
-Amalia Kaerezi is a first-year graduate student in the Pharmacology and Toxicology program. She is originally from Bulawayo, Zimbabwe, and graduated from Kalamazoo College in Spring 2025.
+Amalia Kaerezi is a graduate student in the Pharmacology and Toxicology program. She is originally from Bulawayo, Zimbabwe, and graduated from Kalamazoo College in Spring 2025.
 

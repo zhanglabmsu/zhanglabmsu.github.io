@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /gallery/
-title: Lab Life
+title: Gallery
 description:
 nav: true
 nav_order: 7

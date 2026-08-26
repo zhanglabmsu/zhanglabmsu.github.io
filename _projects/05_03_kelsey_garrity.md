@@ -22,10 +22,4 @@ category: Current Lab Members
     </div>
 </div>
 
-Kelsey Garrity is a freshman studying Biochemistry & Molecular Biology/ Biotechnology. Outside of the lab, she enjoys traveling, hiking, and swimming. She looks forward to contributing to the lab and gaining hands-on research experience.
-
-
-
-
-
-
+Kelsey Garrity is a sophomore studying Biochemistry & Molecular Biology/ Biotechnology. Outside of the lab, she enjoys traveling, hiking, and swimming. She looks forward to contributing to the lab and gaining hands-on research experience.

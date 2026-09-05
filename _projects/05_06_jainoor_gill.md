@@ -23,7 +23,7 @@ category: Current Lab Members
     </div>
 </div>
 
-Jainoor Gill is an undergraduate student in Lyman Briggs College at Michigan State University studying Human Biology on the pre-med track. He is from Sterling Heights, Michigan, and his research interests include neuroscience, neurodegenerative disease, and human physiology. Outside of academics and research, he enjoys playing soccer and spending time with his friends and family.
+Jainoor Gill is an undergraduate student in Lyman Briggs College at Michigan State University majoring in Human Biology on the pre-med track. He is from Sterling Heights, Michigan, and his research interests include neuroscience, neurodegenerative disease, and human physiology. Outside of academics and research, he enjoys playing soccer and spending time with his friends and family.
 
 
 

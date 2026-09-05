@@ -23,7 +23,7 @@ category: Current Lab Members
     </div>
 </div>
 
-Emerson Canen is a freshman at Michigan State University majoring in Physiology with an interest in Neuroscience. Originally from Eaton Rapids, MI, she is excited to gain research experience and explore cerebrovascular physiology. Outside of the lab, Emerson enjoys reading, as well as riding and training horses.
+Emerson Canen is a freshman at Michigan State University majoring in Physiology with an interest in Neuroscience. Originally from Eaton Rapids, MI, she is excited to gain research experience and explore cerebrovascular physiology. Outside of the lab, Emerson enjoys reading, as well as riding and training horses.<br>
 Emerson's research is supported by MSU Honors College [Professional Assistantship Program](https://honorscollege.msu.edu/programs/research-opportunities/professorial-assistantship-pa-program/).
 
 

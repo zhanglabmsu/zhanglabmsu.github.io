@@ -22,5 +22,5 @@ category: Current Lab Members
     </div>
 </div>
 
-Kelsey Garrity is a sophomore studying Biochemistry & Molecular Biology/ Biotechnology. Outside of the lab, she enjoys traveling, hiking, and swimming. She looks forward to contributing to the lab and gaining hands-on research experience.
+Kelsey Garrity is a sophomore studying Biochemistry & Molecular Biology/ Biotechnology. Outside of the lab, she enjoys traveling, hiking, and swimming. She looks forward to contributing to the lab and gaining hands-on research experience.<br>
 Kelsey's research is supported by MSU Honors College [Professional Assistantship Program](https://honorscollege.msu.edu/programs/research-opportunities/professorial-assistantship-pa-program/).

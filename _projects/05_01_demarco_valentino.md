@@ -22,4 +22,4 @@ category: Current Lab Members
     </div>
 </div>
 
-Demarco Valentino is a junior at Michigan State University from Clarkston, MI, majoring in Physiology. He is looking forward to his experience in this lab and his journey at MSU. He enjoys participating in extracurricular activities, meeting new people, and hanging out with his friends.
+Demarco Valentino is a junior at Michigan State University from Clarkston, MI, majoring in [Physiology](https://physiology.natsci.msu.edu/academics/undergraduate/bachelor-of-science-in-physiology/index.aspx). He is looking forward to his experience in this lab and his journey at MSU. He enjoys participating in extracurricular activities, meeting new people, and hanging out with his friends.

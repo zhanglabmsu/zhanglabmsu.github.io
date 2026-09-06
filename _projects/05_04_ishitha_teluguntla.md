@@ -22,7 +22,7 @@ category: Current Lab Members
     </div>
 </div>
 
-Ishitha Teluguntla is a senior at Michigan State University from North Carolina, majoring in Neuroscience and minoring in Bioethics. She is a student in Lyman Briggs and the Osteopathic Medical Scholars Program. Her goal is to become a physician-scientist and continue her passion in mental health advocacy. Outside of academics and the lab, Ishitha enjoys photography and spending time with friends and family.
+Ishitha Teluguntla is a senior at Michigan State University from North Carolina, majoring in Neuroscience and minoring in Bioethics. She is a student in [Lyman Briggs College](https://lbc.msu.edu/) and the [Osteopathic Medical Scholars Program](https://osteopathicmedicine.msu.edu/future-students/pathway-programs/osteopathic-medical-scholars). Her goal is to become a physician-scientist and continue her passion in mental health advocacy. Outside of academics and the lab, Ishitha enjoys photography and spending time with friends and family.
 
 
 

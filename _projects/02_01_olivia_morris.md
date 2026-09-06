@@ -22,5 +22,5 @@ category: Current Lab Members
     </div>
 </div>
 
-Olivia Morris is a graduate student in the Molecular Cellular and Integrative Physiology program. She is originally from Tupelo, Mississippi and graduated from the University of North Alabama in the Spring of 2024.
+Olivia Morris is a graduate student in the [Molecular Cellular and Integrative Physiology program](https://physiology.natsci.msu.edu/academics/graduate/index.aspx). She is originally from Tupelo, Mississippi and graduated from the University of North Alabama in the Spring of 2024.
 
